@@ -7,8 +7,8 @@
 ```ts
 yarn
 ```
-3. Create a copy of the ".env.example" file and rename it to ".env.local".
-4. Provide and add the system keys as the ".env.local".
+3. Create a copy of the "<code>.env.example</code>" file and rename it to "<code>.env.local</code>".
+4. Provide and add the system keys to the "<code>.env.local</code>".
 5. Run the application with following command:
 ```ts
 yarn dev
